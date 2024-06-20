@@ -1,0 +1,208 @@
+POST http://localhost:8080/books
+Accept: application/json
+Content-Type: application/json
+Content-Length: 85
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "id": 1,
+  "isbn": "asdas",
+  "title": "dasdas",
+  "price": 10,
+  "authorId": 1
+}
+
+<> 2024-06-19T125411.500.json
+
+###
+
+POST http://localhost:8080/books
+Accept: application/json
+Content-Type: application/json
+Content-Length: 85
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "id": 1,
+  "isbn": "asdas",
+  "title": "dasdas",
+  "price": 10,
+  "authorId": 1
+}
+
+<> 2024-06-19T125321.500.json
+
+###
+
+POST http://localhost:8080/books
+Accept: application/json
+Content-Type: application/json
+Content-Length: 85
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "id": 1,
+  "isbn": "asdas",
+  "title": "dasdas",
+  "price": 10,
+  "authorId": 1
+}
+
+<> 2024-06-19T125318.500.json
+
+###
+
+POST http://localhost:8080/books
+Accept: application/json
+Content-Type: application/json
+Content-Length: 74
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "isbn": "asdas",
+  "title": "dasdas",
+  "price": 10,
+  "authorId": 1
+}
+
+<> 2024-06-19T125303.500.json
+
+###
+
+POST http://localhost:8080/books
+Accept: application/json
+Content-Type: application/json
+Content-Length: 74
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "isbn": "asdas",
+  "title": "dasdas",
+  "price": 10,
+  "authorId": 1
+}
+
+<> 2024-06-19T125253.500.json
+
+###
+
+POST http://localhost:8080/books
+Content-Type: application/json
+Content-Length: 74
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "isbn": "asdas",
+  "title": "dasdas",
+  "price": 10,
+  "authorId": 1
+}
+
+<> 2024-06-19T125229.500.json
+
+###
+
+POST http://localhost:8080/books
+Content-Type: application/json
+Content-Length: 85
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 1,
+  "isbn": "asdas",
+  "title": "dasdas",
+  "price": 10,
+  "authorId": 1
+}
+
+<> 2024-06-19T125220.500.json
+
+###
+
+POST http://localhost:8080/books
+Content-Type: application/json
+Content-Length: 85
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 1,
+  "isbn": "asdas",
+  "title": "dasdas",
+  "price": 10,
+  "authorId": 1
+}
+
+<> 2024-06-19T125153.500.json
+
+###
+
+GET http://localhost:8080/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-19T125135.200.json
+
+###
+
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-19T125053.404.html
+
+###
+
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-19T125039.404.html
+
+###
+
+POST http://localhost:80/api/item
+Content-Type: application/json
+Content-Length: 85
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 1,
+  "isbn": "asdas",
+  "title": "dasdas",
+  "price": 10,
+  "authorId": 1
+}
+
+<> 2024-06-19T125031.404.html
+
+###
+
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-19T124710.404.html
+
+###
+
